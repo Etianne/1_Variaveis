@@ -32,6 +32,7 @@ print("Olá,", Nome, "! Seja bem-vindo ao mundo da programação em Python!")
 print(type(Nome))
 
 
+
 # Exercicio 2
 
 
